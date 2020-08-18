@@ -27,3 +27,4 @@ Linear regression is going to give us just what we want as a resolution of a ML 
 To build a model we use the input variables being necessary to normalize one to have a numerical representation and we build an equation.
 
 The difference that may exist between the result and the real value, we must try not to exist so that the prediction is as close as possible to the real value, it will not be 100%, but the difference or loss must be low. To get there we must choose the correct weight.
+
